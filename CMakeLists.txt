@@ -17,3 +17,24 @@ add_executable(L1-8 Part1/Chapter1/L1-8.cpp)
 add_executable(L1-9 Part1/Chapter1/L1-9.cpp)
 add_executable(L1-10 Part1/Chapter1/L1-10.cpp)
 add_executable(L1-11 Part1/Chapter1/L1-11.cpp)
+
+# Chapter2
+# Example
+add_executable(L2-1 Part1/Chapter2/L2-1.cpp)
+add_executable(L2-2 Part1/Chapter2/L2-2.cpp)
+add_executable(L2-3 Part1/Chapter2/L2-3.cpp)
+add_executable(L2-4 Part1/Chapter2/L2-4.cpp)
+add_executable(L2-5 Part1/Chapter2/L2-5.cpp)
+add_executable(L2-6 Part1/Chapter2/L2-6.cpp)
+add_executable(L2-7 Part1/Chapter2/L2-7.cpp)
+add_executable(L2-8 Part1/Chapter2/L2-8.cpp)
+add_executable(L2-9 Part1/Chapter2/L2-9.cpp)
+add_executable(L2-10 Part1/Chapter2/L2-10.cpp)
+add_executable(L2-11 Part1/Chapter2/L2-11.cpp)
+add_executable(L2-12 Part1/Chapter2/L2-12.cpp)
+
+# Exercise
+add_executable(P1421 Part1/Chapter2/P1421.cpp)
+add_executable(P2181 Part1/Chapter2/P2181.cpp)
+add_executable(P5708 Part1/Chapter2/P5708.cpp)
+add_executable(P5709 Part1/Chapter2/P5709.cpp)
