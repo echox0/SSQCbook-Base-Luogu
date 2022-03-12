@@ -38,3 +38,26 @@ add_executable(P1421 Part1/Chapter2/P1421.cpp)
 add_executable(P2181 Part1/Chapter2/P2181.cpp)
 add_executable(P5708 Part1/Chapter2/P5708.cpp)
 add_executable(P5709 Part1/Chapter2/P5709.cpp)
+
+# Chapter3
+# Example
+add_executable(L3-1 Part1/Chapter3/L3-1.cpp)
+add_executable(L3-2 Part1/Chapter3/L3-2.cpp)
+add_executable(L3-3 Part1/Chapter3/L3-3.cpp)
+add_executable(L3-4 Part1/Chapter3/L3-4.cpp)
+add_executable(L3-5 Part1/Chapter3/L3-5.cpp)
+add_executable(L3-6 Part1/Chapter3/L3-6.cpp)
+add_executable(L3-7 Part1/Chapter3/L3-7.cpp)
+add_executable(L3-8 Part1/Chapter3/L3-8.cpp)
+add_executable(L3-9 Part1/Chapter3/L3-9.cpp)
+add_executable(L3-10 Part1/Chapter3/L3-10.cpp)
+add_executable(L3-11 Part1/Chapter3/L3-11.cpp)
+add_executable(L3-12 Part1/Chapter3/L3-12.cpp)
+
+# Exercise
+add_executable(P1046 Part1/Chapter3/P1046.cpp)
+add_executable(P1422 Part1/Chapter3/P1422.cpp)
+add_executable(P1424 Part1/Chapter3/P1424.cpp)
+add_executable(P1888 Part1/Chapter3/P1888.cpp)
+add_executable(P4414 Part1/Chapter3/P4414.cpp)
+add_executable(P5717 Part1/Chapter3/P5717.cpp)
