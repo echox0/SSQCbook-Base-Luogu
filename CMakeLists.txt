@@ -3,8 +3,6 @@ project(SRQCCXSJJS_Base_Luogu)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(main main.cpp)
-
 # Chapter1
 add_executable(L1-1 Part1/Chapter1/L1-1.cpp)
 add_executable(L1-2 Part1/Chapter1/L1-2.cpp)
