@@ -78,3 +78,6 @@ add_executable(L4-11B Part1/Chapter4/L4-11B.cpp)
 add_executable(L4-12 Part1/Chapter4/L4-12.cpp)
 add_executable(L4-13 Part1/Chapter4/L4-13.cpp)
 add_executable(L4-14 Part1/Chapter4/L4-14.cpp)
+
+# Practice
+add_executable(P1423 Part1/Chapter4/P1423.cpp)
