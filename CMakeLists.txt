@@ -90,3 +90,7 @@ add_executable(P5725 Part1/Chapter4/P5725.cpp)
 add_executable(P5726 Part1/Chapter4/P5726.cpp)
 add_executable(P4956 Part1/Chapter4/P4956.cpp)
 add_executable(P1089 Part1/Chapter4/P1089.cpp)
+
+# Chapter5
+# Example
+add_executable(P1428 Part1/Chapter5/P1428.cpp)
