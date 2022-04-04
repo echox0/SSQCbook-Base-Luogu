@@ -16,7 +16,7 @@ int main() {
                 && abs(a[1][i] - a[1][j]) <= 5
                 && abs(a[2][i] - a[2][j]) <= 5
                 && abs(a[0][i] + a[1][i] + a[2][i] - a[0][j] - a[1][j] - a[2][j]) <= 10
-            ) {
+                    ) {
                 ans++;
             }
     cout << ans << endl;
