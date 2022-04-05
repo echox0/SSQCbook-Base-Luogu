@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 project(SRQCCXSJJS_Base_Luogu)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 11)
 
 # Chapter1
 add_executable(L1-1 Part1/Chapter1/L1-1.cpp)
@@ -101,3 +101,4 @@ add_executable(P5728 Part1/Chapter5/P5728.cpp)
 add_executable(P5729 Part1/Chapter5/P5729.cpp)
 add_executable(P2550 Part1/Chapter5/P2550.cpp)
 add_executable(P2615 Part1/Chapter5/P2615.cpp)
+add_executable(P5730 Part1/Chapter5/P5730.cpp)
