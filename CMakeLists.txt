@@ -105,3 +105,4 @@ add_executable(P5730 Part1/Chapter5/P5730.cpp)
 
 # Practice
 add_executable(P1554 Part1/Chapter5/P1554.cpp)
+add_executable(P2141 Part1/Chapter5/P2141.cpp)
